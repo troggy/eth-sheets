@@ -1,0 +1,16 @@
+{
+  "name": "eth-sheets",
+  "author": "Kosta Korenkov <kosta@whoot.me>",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "cp -n .env.template .env || true && cp -n knownAddresses.json.template knownAddresses.json || true"
+  },
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "ethers": "^4.0.13",
+    "fecha": "^3.0.3",
+    "googleapis": "^39.2.0",
+    "node-fetch": "^2.3.0"
+  }
+}
