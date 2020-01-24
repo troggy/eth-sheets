@@ -26,3 +26,11 @@ LeapDAO treasury:
 
 Nothing is mandatory. Import could be done in the blank vanilla google sheet, just the name of the list should match the one from the script
 
+## Roadmap
+
+- [x] Basic import of ethereum transactions (incoming/outgoing)
+- [x] Basic import of ERC20/DAI transactions
+- [ ] Protection against duplicate imports
+- [ ] Integration with Gnosis Multisig
+- [ ] Source extra metadata from bounty spreadsheets (bounty payout goes through google/netlify form, script reads it)
+- [ ] Integration with Gnosis Safe
