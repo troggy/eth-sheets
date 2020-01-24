@@ -34,3 +34,4 @@ Nothing is mandatory. Import could be done in the blank vanilla google sheet, ju
 - [ ] Integration with Gnosis Multisig
 - [ ] Source extra metadata from bounty spreadsheets (bounty payout goes through google/netlify form, script reads it)
 - [ ] Integration with Gnosis Safe
+- [ ] Get away from using Google products
