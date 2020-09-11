@@ -11,6 +11,6 @@
     "ethers": "^4.0.13",
     "fecha": "^3.0.3",
     "googleapis": "^39.2.0",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.6.1"
   }
 }
